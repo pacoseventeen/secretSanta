@@ -1,0 +1,18 @@
+{
+  "userList": [
+    {
+      "nameHash": "abc123",
+      "realName": "Bob Smith",
+      "contact": "bob@fakeslack.com",
+      "address": "123 ABC Lane Fake NY 12345",
+      "santa": "gift"
+    },
+    {
+      "nameHash": "def456",
+      "realName": "Jill Stone",
+      "contact": "jstone@slackfake.net",
+      "address": "5 Fake Rd Nope OH 54321",
+      "santa": "card"
+    }
+  ]
+}
