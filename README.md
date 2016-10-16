@@ -8,5 +8,5 @@ the mailer their recipients name and address over Slack,
 and then destroys the data. The goal is for the secret
 to remain a secret to every single person involved.
 
-The included usersExampleFile.json shows the expected
+The included usersExampleFile.json shows the planned
 formatting for the users file.
